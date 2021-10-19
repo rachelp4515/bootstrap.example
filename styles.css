@@ -1,0 +1,20 @@
+.navbar {
+    padding: 1rem;
+  }
+.btn-danger:hover {
+    background-color: darkcyan;
+}
+.jumbotron{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+}
+.jumbotron h1{
+    color: black;
+}
+a{
+    color: #d33682;
+}
